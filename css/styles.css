@@ -1,0 +1,14 @@
+.footer {
+    position: fixed;
+    display: block;
+    bottom: 0;
+    background-color: black;
+    width: 100%;
+    color: white;
+    text-align: center;
+    z-index: 100;
+}
+
+.main {
+    margin-top: 50px;
+}
