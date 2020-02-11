@@ -31,7 +31,7 @@
                             </div>
                         </div>
                         <div class="row center">
-                            <button class="btn waves-effect waves-light col s12" type="submit" name="save_task">Save Task
+                            <button class="btn waves-effect waves-light col s12 cyan darken-3" type="submit" name="save_task">Save Task
                             <i class="material-icons right">send</i>
                             </button>
                         </div>
