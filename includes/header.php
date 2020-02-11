@@ -13,7 +13,7 @@
 <body>
 
 <nav>
-    <div class="nav-wrapper">
+    <div class="nav-wrapper blue-grey darken-4">
       <a href="index.php" class="brand-logo center">PHP-MYSQL-CRUD</a>
       <ul id="nav-mobile" class="left hide-on-med-and-down">
       </ul>
